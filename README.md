@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mayank140905/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mayank140905/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mayank140905/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3093-longest-common-suffix-queries](https://github.com/mayank140905/Leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mayank140905/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Array
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3093-longest-common-suffix-queries](https://github.com/mayank140905/Leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mayank140905/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
