@@ -107,15 +107,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mayank140905/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/mayank140905/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/mayank140905/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mayank140905/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/mayank140905/Leetcode-solutions/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mayank140905/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/mayank140905/Leetcode-solutions/tree/master/0242-valid-anagram) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mayank140905/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
