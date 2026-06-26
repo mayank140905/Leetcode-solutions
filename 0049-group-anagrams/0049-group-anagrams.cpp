@@ -1,3 +1,4 @@
+#pragma GCC optimize("Ofast")
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
