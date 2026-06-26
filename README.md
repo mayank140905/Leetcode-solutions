@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mayank140905/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/mayank140905/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/mayank140905/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0705-design-hashset](https://github.com/mayank140905/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mayank140905/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mayank140905/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/mayank140905/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/mayank140905/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/mayank140905/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [1480-running-sum-of-1d-array](https://github.com/mayank140905/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3093-longest-common-suffix-queries](https://github.com/mayank140905/Leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Two Pointers
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayank140905/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/mayank140905/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0705-design-hashset](https://github.com/mayank140905/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/mayank140905/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -137,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mayank140905/Leetcode-solutions/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/mayank140905/Leetcode-solutions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/mayank140905/Leetcode-solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
