@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/mayank140905/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mayank140905/Leetcode-solutions/tree/master/0706-design-hashmap) |
 | [1480-running-sum-of-1d-array](https://github.com/mayank140905/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayank140905/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mayank140905/Leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3093-longest-common-suffix-queries](https://github.com/mayank140905/Leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Two Pointers
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayank140905/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayank140905/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mayank140905/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mayank140905/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mayank140905/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayank140905/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Recursion
 |  |
 | ------- |
