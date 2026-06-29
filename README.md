@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mayank140905/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/mayank140905/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mayank140905/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayank140905/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3093-longest-common-suffix-queries](https://github.com/mayank140905/Leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mayank140905/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Array
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/mayank140905/Leetcode-solutions/tree/master/0706-design-hashmap) |
 | [1480-running-sum-of-1d-array](https://github.com/mayank140905/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayank140905/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayank140905/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mayank140905/Leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3093-longest-common-suffix-queries](https://github.com/mayank140905/Leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Two Pointers
