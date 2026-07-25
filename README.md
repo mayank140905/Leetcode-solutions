@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mayank140905/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/mayank140905/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/mayank140905/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/mayank140905/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mayank140905/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mayank140905/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayank140905/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3536-maximum-product-of-two-digits](https://github.com/mayank140905/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
