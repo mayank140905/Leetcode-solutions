@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mayank140905/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mayank140905/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/mayank140905/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayank140905/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/mayank140905/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3620-network-recovery-pathways](https://github.com/mayank140905/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayank140905/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mayank140905/Leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/mayank140905/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/mayank140905/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/mayank140905/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/mayank140905/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -224,5 +226,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mayank140905/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mayank140905/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
