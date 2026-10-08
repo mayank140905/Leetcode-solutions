@@ -1,23 +1,24 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int l=0; int r=0;
-        int length=0;
-        unordered_set <char> st;
-        while(r<s.size()){
-        
-            if(!st.count(s[r])){
-            st.insert(s[r]);
-            length = max(length,r-l+1);
-            r++;
+        int low=0 ;int high = 0; int res = 0;
+        int n = s.size();
+        unordered_map <int,int> f;
+        for(int high =0; high<n; high++){
+            f[s[high]]++;
+            int k = high - low +1; // info can be both wrong and right, so we need to check first 
+            // and k can never be greater than size of substring/array
+            while(f.size()< k){
+                f[s[low]]--;
+                if(f[s[low]]==0){
+                    f.erase(s[low]);
+                }
+                low++;
+                k = high - low +1;     // recalculate size of window becuz we increased low
             }
-            else{ // if already present, window becomes invalid
-            while(st.count(s[r])){
-                st.erase(s[l]);
-                l++;
-            }}
+            int len = high - low +1;
+            res = max(len,res);
         }
-        return length;
-
+        return res;
     }
 };
