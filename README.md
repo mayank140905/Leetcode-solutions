@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mayank140905/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayank140905/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mayank140905/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/mayank140905/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/mayank140905/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/mayank140905/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/mayank140905/Leetcode-solutions/tree/master/0705-design-hashset) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/mayank140905/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayank140905/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/mayank140905/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/mayank140905/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/mayank140905/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/mayank140905/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayank140905/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayank140905/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayank140905/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/mayank140905/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/mayank140905/Leetcode-solutions/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mayank140905/Leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/mayank140905/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -242,4 +245,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mayank140905/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mayank140905/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/mayank140905/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mayank140905/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mayank140905/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
