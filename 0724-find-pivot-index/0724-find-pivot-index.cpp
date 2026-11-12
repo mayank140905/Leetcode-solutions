@@ -7,7 +7,6 @@ public:
         for(int i:nums){
             total += i;
         }
-
         for (int i =0;i<nums.size();i++){
             int rightSum = total - leftSum - nums[i];
 
